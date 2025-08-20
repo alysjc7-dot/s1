@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,UK - Channel 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXT-X-VERSION:3
+#EXT-X-KEY:METHOD=AES-128,URI="data:text/plain;base64,Zjg0YzMyNWYzNjgxNGYzOWJiZTU5MDgwMjcyYjEwYzM6NTUwNzI3ZGU0Yzk2ZWYxZWNmZjg3NDkwNTQ5MzU4MGY=",IV=0x00000000000000000000000000000000
+#EXTINF:-1,
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
