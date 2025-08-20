@@ -1,23 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-START:TIME-OFFSET=0.01
-#EXT-X-MEDIA-SEQUENCE:496743
-#EXT-X-TARGETDURATION:4
-#EXTINF:4.000,
-http://h30.fast-sh.space/2203124/58.js?918454578001/496743
-#EXTINF:4.000,
-http://h30.fast-sh.space/2203124/58.js?918454578001/496744
-#EXTINF:4.000,
-http://h30.fast-sh.space/2203124/58.js?918454578001/496745
-#EXTINF:4.000,
-http://h30.fast-sh.space/2203124/58.js?918454578001/496746
-#EXTINF:4.000,
-http://h30.fast-sh.space/2203124/58.js?918454578001/496747
-#EXTINF:4.000,
-http://h30.fast-sh.space/2203124/58.js?918454578001/496748
-#EXTINF:4.000,
-http://h30.fast-sh.space/2203124/58.js?918454578001/496749
-#EXTINF:4.000,
-http://h30.fast-sh.space/2203124/58.js?918454578001/496750
-#EXTINF:4.000,
-http://h30.fast-sh.space/2203124/58.js?918454578001/496751
+#EXTINF:-1,UK - Channel 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
