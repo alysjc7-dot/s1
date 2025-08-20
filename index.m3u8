@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-KEY:METHOD=AES-128,URI="data:text/plain;base64,Zjg0YzMyNWYzNjgxNGYzOWJiZTU5MDgwMjcyYjEwYzM6NTUwNzI3ZGU0Yzk2ZWYxZWNmZjg3NDkwNTQ5MzU4MGY=",IV=0x00000000000000000000000000000000
-#EXTINF:-1,
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+#EXTINF:-1,قناة
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.m3u8
